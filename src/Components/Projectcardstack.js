@@ -8,12 +8,11 @@ import Phonenumberapi from 'D:/React - projects/my-website/src/images/python.png
 import Todowebapp from 'D:/React - projects/my-website/src/images/python.png'
 import { Link } from 'react-router-dom'
 
-
 export default function Projectcardstack() {
   return (
     <>
     <center>
-      <div className="row row-cols-1 row-cols-5 g-4  my-1 mx-2" >
+      <div className="row row-cols-1 row-cols-md-5 g-4 my-1 mx-2" style={{fontSize : "2px"}}>
   <div className="col">
     <div className="card border-success h-100" >
     <Link to="/todoapp">
@@ -22,7 +21,7 @@ export default function Projectcardstack() {
       </Link>
       <br />
       <div className="card-body">
-        <h5 className="card-title">ToDo App</h5>
+        <h5 className="card-title"> ToDo App </h5>
         
       </div>
     </div>
