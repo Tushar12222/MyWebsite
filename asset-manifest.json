@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/MyWebsite/static/css/main.073c9b0a.css",
+    "main.js": "/MyWebsite/static/js/main.d381a54a.js",
+    "static/js/787.bbe01249.chunk.js": "/MyWebsite/static/js/787.bbe01249.chunk.js",
+    "static/media/blockchain7.png": "/MyWebsite/static/media/blockchain7.9735a63297e31e00e4b6.png",
+    "static/media/blockchain2.png": "/MyWebsite/static/media/blockchain2.420d2ace77ea57a9f535.png",
+    "static/media/blockchain5.png": "/MyWebsite/static/media/blockchain5.7668e326e5c237315a33.png",
+    "static/media/profilepic.png": "/MyWebsite/static/media/profilepic.94fd0c826aca32bb289f.png",
+    "static/media/website.png": "/MyWebsite/static/media/website.207edb6ffd2760623112.png",
+    "static/media/flutter.png": "/MyWebsite/static/media/flutter.294a953425109a8f1aad.png",
+    "static/media/phno3.png": "/MyWebsite/static/media/phno3.eaa5344f94da69443fc5.png",
+    "static/media/spotify.jpeg": "/MyWebsite/static/media/spotify.a3d4e6aa9d1de7189eed.jpeg",
+    "static/media/youtube.jpeg": "/MyWebsite/static/media/youtube.3d0a1229b3c896413ea2.jpeg",
+    "static/media/python.png": "/MyWebsite/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/textutils1.png": "/MyWebsite/static/media/textutils1.f9e059a950731a3241fd.png",
+    "static/media/textutils3.png": "/MyWebsite/static/media/textutils3.0de8167a9fd70404240f.png",
+    "static/media/textutils2.png": "/MyWebsite/static/media/textutils2.654f12d1d012ffd7fbaf.png",
+    "static/media/toweb2.png": "/MyWebsite/static/media/toweb2.922e5def0ade087fad3e.png",
+    "static/media/github (1).png": "/MyWebsite/static/media/github (1).f3d873d71aa989badfd2.png",
+    "static/media/toweb1.png": "/MyWebsite/static/media/toweb1.3915161075f507cd5190.png",
+    "static/media/phno1.png": "/MyWebsite/static/media/phno1.20a1954f41bf7746a3be.png",
+    "static/media/toweb3.png": "/MyWebsite/static/media/toweb3.ac34948038a40a3ec682.png",
+    "static/media/todo4.jpeg": "/MyWebsite/static/media/todo4.591bcd6e40c13597e558.jpeg",
+    "static/media/todo3.jpeg": "/MyWebsite/static/media/todo3.d74462cbe98b135faf45.jpeg",
+    "static/media/insta.jpeg": "/MyWebsite/static/media/insta.98466b91271d638cec10.jpeg",
+    "static/media/phno2.png": "/MyWebsite/static/media/phno2.92994da0be6b404407d1.png",
+    "static/media/todo2.jpeg": "/MyWebsite/static/media/todo2.01a0c3f4fc2b9454a92b.jpeg",
+    "static/media/leetcode.svg": "/MyWebsite/static/media/leetcode.6971d830f6805a54b0a7bf5785ff6245.svg",
+    "index.html": "/MyWebsite/index.html",
+    "main.073c9b0a.css.map": "/MyWebsite/static/css/main.073c9b0a.css.map",
+    "main.d381a54a.js.map": "/MyWebsite/static/js/main.d381a54a.js.map",
+    "787.bbe01249.chunk.js.map": "/MyWebsite/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d381a54a.js"
+  ]
+}
