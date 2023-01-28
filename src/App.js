@@ -8,6 +8,7 @@ import TodoWebapp from './Components/TodoWebapp';
 import YoutubeSpotifyInstagram from './Components/Youtube-Spotify-Instagram';
 import { HashRouter , Route, Routes } from "react-router-dom";
 import Home from './Components/Home';
+import Newsapp from './Components/Newsapp';
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
           <Route exact path="/phnoapi" element={<PhonenumberApi/>}></Route>
           <Route exact path="/ysiuis" element={<YoutubeSpotifyInstagram/>}></Route>
           <Route exact path="/textutils" element={<TextUTils/>}></Route>
+          <Route exact path="/newsapp" element={<Newsapp/>}></Route>
         </Routes>
       </HashRouter>
 

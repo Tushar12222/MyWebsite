@@ -6,6 +6,8 @@ import Textutils from 'D:/React - projects/my-website/src/images/react.png'
 import Blockchain from 'D:/React - projects/my-website/src/images/solidity.png'
 import Phonenumberapi from 'D:/React - projects/my-website/src/images/python.png'
 import Todowebapp from 'D:/React - projects/my-website/src/images/python.png'
+import NewsApp from 'D:/React - projects/my-website/src/images/react.png'
+
 import { Link } from 'react-router-dom'
 
 export default function Projectcardstack() {
@@ -90,6 +92,20 @@ export default function Projectcardstack() {
       <br />
       <div className="card-body">
         <h5 className="card-title">Blockchain for Supply Chain</h5>
+      </div>
+    </div>
+    
+  </div>
+
+  <div className="col">
+    <div className="card border-success h-100">
+    <Link to="/newsapp">
+
+      <img src={NewsApp}  className="card-img-top" alt="..."/>
+      </Link>
+      <br />
+      <div className="card-body">
+        <h5 className="card-title">The Daily News App</h5>
       </div>
     </div>
     
