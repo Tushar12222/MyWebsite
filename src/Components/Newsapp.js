@@ -10,7 +10,7 @@ export default function Newsapp() {
   return (
     <>
         <PagesLayout title="The Daily News App" pic1={n1} pic2={n2} pic3={n3} desktop="32%" mobile="50%"
-        p1="This Daily News app in mostly written with React and Bootstrap."
+        p1="This Daily News app is mostly built with React and Bootstrap."
         p2="Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites."
         p3="This app is built on class based components."
         p4="This app makes use of an api called the News API."
