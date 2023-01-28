@@ -14,7 +14,7 @@ export default function Projectcardstack() {
   return (
     <>
     <center>
-      <div className="row row-cols-1 row-cols-md-5 g-4 my-1 mx-2" style={{fontSize : "2px"}}>
+      <div className="row row-cols-1 row-cols-md-5 g-4 my-1 mx-2">
   <div className="col">
     <div className="card border-success h-100" >
     <Link to="/todoapp">
