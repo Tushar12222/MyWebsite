@@ -1,8 +1,11 @@
 {
   "files": {
     "main.css": "/MyWebsite/static/css/main.073c9b0a.css",
-    "main.js": "/MyWebsite/static/js/main.30918748.js",
+    "main.js": "/MyWebsite/static/js/main.fc89acc4.js",
     "static/js/787.bbe01249.chunk.js": "/MyWebsite/static/js/787.bbe01249.chunk.js",
+    "static/media/news3.png": "/MyWebsite/static/media/news3.345879a803fe6b28fde1.png",
+    "static/media/news1.png": "/MyWebsite/static/media/news1.7bc600f3a5bb12c4fad8.png",
+    "static/media/new2.png": "/MyWebsite/static/media/new2.d041cbe2dab003f45375.png",
     "static/media/blockchain7.png": "/MyWebsite/static/media/blockchain7.9735a63297e31e00e4b6.png",
     "static/media/blockchain2.png": "/MyWebsite/static/media/blockchain2.420d2ace77ea57a9f535.png",
     "static/media/blockchain5.png": "/MyWebsite/static/media/blockchain5.7668e326e5c237315a33.png",
@@ -29,11 +32,11 @@
     "static/media/leetcode.svg": "/MyWebsite/static/media/leetcode.6971d830f6805a54b0a7bf5785ff6245.svg",
     "index.html": "/MyWebsite/index.html",
     "main.073c9b0a.css.map": "/MyWebsite/static/css/main.073c9b0a.css.map",
-    "main.30918748.js.map": "/MyWebsite/static/js/main.30918748.js.map",
+    "main.fc89acc4.js.map": "/MyWebsite/static/js/main.fc89acc4.js.map",
     "787.bbe01249.chunk.js.map": "/MyWebsite/static/js/787.bbe01249.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.30918748.js"
+    "static/js/main.fc89acc4.js"
   ]
 }
