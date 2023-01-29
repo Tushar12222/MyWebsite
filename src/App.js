@@ -9,6 +9,7 @@ import YoutubeSpotifyInstagram from './Components/Youtube-Spotify-Instagram';
 import { HashRouter , Route, Routes } from "react-router-dom";
 import Home from './Components/Home';
 import Newsapp from './Components/Newsapp';
+import Gameinfo from './Components/Gameinfo';
 
 function App() {
   return (
@@ -26,6 +27,7 @@ function App() {
           <Route exact path="/ysiuis" element={<YoutubeSpotifyInstagram/>}></Route>
           <Route exact path="/textutils" element={<TextUTils/>}></Route>
           <Route exact path="/newsapp" element={<Newsapp/>}></Route>
+          <Route exact path="/gameinfo" element={<Gameinfo/>}></Route>
         </Routes>
       </HashRouter>
 
