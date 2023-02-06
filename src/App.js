@@ -11,6 +11,7 @@ import Home from './Components/Home';
 import Newsapp from './Components/Newsapp';
 import Gameinfo from './Components/Gameinfo';
 import Inotebook from './Components/Inotebook';
+import Analyzecsv from './Components/Analyzecsv';
 
 function App() {
   return (
@@ -30,6 +31,7 @@ function App() {
           <Route exact path="/newsapp" element={<Newsapp/>}></Route>
           <Route exact path="/gameinfo" element={<Gameinfo/>}></Route>
           <Route exact path="/inotebook" element={<Inotebook/>}></Route>
+          <Route exact path="/analyzecsv" element={<Analyzecsv/>}></Route>
         </Routes>
       </HashRouter>
 
