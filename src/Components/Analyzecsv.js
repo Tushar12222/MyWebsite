@@ -14,7 +14,7 @@ export default function Analyzecsv() {
     p3="The frontend sends the uploaded file to pocketbase to store the file and then requests the backend."
     p4="The backend retrieves the file from pocketbase with the help of id and name sent from the frontend."
     p5="The backend then processes the file and generates the pdf."
-    p6="The pdf is stored as a blob type in react and served to the user."
+    p6="This app takes in a csv file with features and generates a pdf which contains a correlation mapping for those features."
     href="https://github.com/Tushar12222/AnalyzeCSV"
     />
     </>
