@@ -11,6 +11,7 @@ import Gameinfo from 'D:/React - projects/my-website/src/images/react.png'
 import iNoteBook from 'D:/React - projects/my-website/src/images/mern.jpg'
 import Analyzecsv from 'D:/React - projects/my-website/src/images/flask3.png'
 import Dockerbasics from 'D:/React - projects/my-website/src/images/docker.png'
+import Tyre from 'D:/React - projects/my-website/src/images/react.png'
 
 import { Link } from 'react-router-dom'
 
@@ -164,6 +165,20 @@ export default function Projectcardstack() {
       <br />
       <div className="card-body">
         <h5 className="card-title">Docker Basics</h5>
+      </div>
+    </div>
+    
+  </div>
+
+  <div className="col">
+    <div className="card border-success h-100">
+    <Link to="/tyremanagement">
+
+      <img src={Tyre}  className="card-img-top" alt="..."/>
+      </Link>
+      <br />
+      <div className="card-body">
+        <h5 className="card-title">Tyre Distribution Management System</h5>
       </div>
     </div>
     

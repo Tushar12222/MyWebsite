@@ -13,6 +13,7 @@ import Gameinfo from './Components/Gameinfo';
 import Inotebook from './Components/Inotebook';
 import Analyzecsv from './Components/Analyzecsv';
 import Dockerbasics from './Components/Dockerbasics';
+import Tyremanage from './Components/Tyremanage';
 
 function App() {
   return (
@@ -34,6 +35,7 @@ function App() {
           <Route exact path="/inotebook" element={<Inotebook/>}></Route>
           <Route exact path="/analyzecsv" element={<Analyzecsv/>}></Route>
           <Route exact path="/dockerbasics" element={<Dockerbasics/>}></Route>
+          <Route exact path="/tyremanagement" element={<Tyremanage/>}></Route>
         </Routes>
       </HashRouter>
 
