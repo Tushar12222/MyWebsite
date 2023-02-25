@@ -14,6 +14,7 @@ import Inotebook from './Components/Inotebook';
 import Analyzecsv from './Components/Analyzecsv';
 import Dockerbasics from './Components/Dockerbasics';
 import Tyremanage from './Components/Tyremanage';
+import Chat from './Components/Chat';
 
 function App() {
   return (
@@ -36,6 +37,7 @@ function App() {
           <Route exact path="/analyzecsv" element={<Analyzecsv/>}></Route>
           <Route exact path="/dockerbasics" element={<Dockerbasics/>}></Route>
           <Route exact path="/tyremanagement" element={<Tyremanage/>}></Route>
+          <Route exact path="/chat" element={<Chat/>}></Route>
         </Routes>
       </HashRouter>
 
