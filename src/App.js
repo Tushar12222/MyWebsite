@@ -15,6 +15,7 @@ import Analyzecsv from './Components/Analyzecsv';
 import Dockerbasics from './Components/Dockerbasics';
 import Tyremanage from './Components/Tyremanage';
 import Chat from './Components/Chat';
+import Stream from './Components/Stream';
 
 function App() {
   return (
@@ -38,6 +39,7 @@ function App() {
           <Route exact path="/dockerbasics" element={<Dockerbasics/>}></Route>
           <Route exact path="/tyremanagement" element={<Tyremanage/>}></Route>
           <Route exact path="/chat" element={<Chat/>}></Route>
+          <Route exact path="/basicyoutube" element={<Stream/>}></Route>
         </Routes>
       </HashRouter>
 
